@@ -1,5 +1,5 @@
 {
-  "name": "BorsaAI - Akıllı Hisse Analizi",
-  "description": "Yapay zeka destekli teknik analiz, hisse senedi alım-satım sinyalleri ve güncel piyasa haberleri (Google Search Grounding).",
+  "name": "SEARCHER",
+  "description": "search",
   "requestFramePermissions": []
 }
